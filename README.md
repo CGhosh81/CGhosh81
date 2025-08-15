@@ -34,7 +34,7 @@ This repository is my **personal showcase**, highlighting my skills, interests, 
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/CGhosh81)  
-- [LinkedIn](https://www.linkedin.com/in/chayan-ghosh07/) (add your profile link)  
+- [LinkedIn](https://www.linkedin.com/in/chayan-ghosh07/) 
 
 ---
 
