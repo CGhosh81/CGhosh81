@@ -1,4 +1,4 @@
-# 👋 Hi, I’m CGhosh81
+# 👋 Hi, I’m CGhosh
 
 Welcome to my GitHub profile! I’m an **AI/ML student at Adamas University** with a passion for building intelligent systems and exploring the world of machine learning operations (MLOps).  
 
