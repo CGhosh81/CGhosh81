@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Student;MLOps+Learner;Exploring+Cloud+%26+DevOps;Always+Learning+New+Things" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;MLOps+Learner;Exploring+Cloud+%26+DevOps;Always+Learning+New+Things" alt="Typing Animation">
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - ⚡ Passionate about **Machine Learning, Deep Learning, and MLOps**  
 - 🚀 Currently learning **Kubernetes, Docker, and ML pipelines**  
 - 📊 Interested in **AI-powered applications & scalable ML systems**  
-- 🎯 My goal: Build impactful **AI/ML projects** and improve my **DSA & MLOps** skills  
+- 🎯 Goal: Build impactful **AI/ML projects** and improve my **DSA & MLOps** skills  
 
 ---
 
@@ -43,14 +43,17 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics (stable / no private commits fetch)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165"/>
+  <!-- Main public stats (no include_all_commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- Streak / contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 </p>
 
 <p align="center">
+  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
