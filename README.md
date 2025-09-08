@@ -4,11 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Student;MLOps+Learner;Exploring+Cloud+and+DevOps;Always+Learning+New+Things" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/o9ggk5ESrJ858eXv1v/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Student;MLOps+Learner;Exploring+Cloud+%26+DevOps;Always+Learning+New+Things" alt="Typing Animation">
 </p>
 
 ---
@@ -50,12 +46,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
