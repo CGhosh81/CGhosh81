@@ -1,10 +1,10 @@
 <h1 align="center">
   Hi there, I'm CGhosh 👋  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&lines=AI+%7C+ML+Student;MLOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Student;MLOps+Learner;Exploring+Cloud+and+DevOps;Always+Learning+New+Things" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -13,10 +13,20 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+- 🎓 I’m an **AI/ML student at Adamas University**  
+- ⚡ Passionate about **Machine Learning, Deep Learning, and MLOps**  
+- 🚀 Currently learning **Kubernetes, Docker, and ML pipelines**  
+- 📊 Interested in **AI-powered applications & scalable ML systems**  
+- 🎯 My goal: Build impactful **AI/ML projects** and improve my **DSA & MLOps** skills  
+
+---
+
 ## 💻 Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,docker,kubernetes,flask,git,github,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,docker,kubernetes,flask,git,github,pytorch,tensorflow,mysql" />
 </p>
 
 ---
@@ -25,7 +35,7 @@
 
 - ⚡ Building **AI-powered applications**  
 - ⚡ Exploring **MLOps** for scalable ML systems  
-- ⚡ Contributing to **open-source projects**  
+- ⚡ Working on **personal ML projects & data analysis**  
 
 ---
 
@@ -34,6 +44,19 @@
 - 🤖 AI/ML models for real-world problems  
 - 📦 Dockerized ML applications  
 - 📊 Data analysis and visualization projects  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
