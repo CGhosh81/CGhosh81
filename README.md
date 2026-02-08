@@ -75,15 +75,8 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
 
 ## 📊 Analytics & Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true" height="165" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
 
 ---
 
