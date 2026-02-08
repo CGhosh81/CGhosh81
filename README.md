@@ -76,8 +76,9 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
 ## 📊 Analytics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
 </p>
 
 <p align="center">
@@ -88,10 +89,25 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
 
 ## 🌍 Connect & Communicate
 
-- **Languages**: English, Hindi, Bengali
-- **Portfolio**: [www.chayanghosh.com](http://www.chayanghosh.com)
-- **LinkedIn**: [linkedin.com/in/chayan-ghosh07](https://linkedin.com/in/chayan-ghosh07)
-- **GitHub**: [github.com/CGhosh81](https://github.com/CGhosh81)
+<p align="center">
+  <a href="https://www.chayanghosh.com">
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chayan-ghosh07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chayan07ghosh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Languages:</b> English • Hindi • Bengali 
+</p>
+
+---**GitHub**: [github.com/CGhosh81](https://github.com/CGhosh81)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
