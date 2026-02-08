@@ -107,7 +107,6 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
   <b>Languages:</b> English • Hindi • Bengali 
 </p>
 
----**GitHub**: [github.com/CGhosh81](https://github.com/CGhosh81)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
