@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Professional Profile
 
-I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **Adamas University**. My expertise lies in building end-to-end ML pipelines, training deep learning models, and deploying scalable, production-ready systems. I focus on practical problem-solving, model optimization, and reliable ML engineering.
+[cite_start]I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **Adamas University**[cite: 5, 9]. [cite_start]My expertise lies in building end-to-end ML pipelines, training deep learning models, and deploying scalable, production-ready systems[cite: 6]. [cite_start]I focus on practical problem-solving, model optimization, and reliable ML engineering[cite: 7].
 
-- 🔬 **International Research**: Completed an AI/ML Research Internship at **University College Cork, Ireland**.
-- 🎓 **Academic Excellence**: Currently maintaining an **83.35%** in B.Tech (AI & ML).
-- 🚀 **Mission**: To bridge the gap between complex research models and real-world production environments.
+- [cite_start]🔬 **International Research**: Completed an AI/ML Research Internship at **University College Cork, Ireland**[cite: 11, 12].
+- [cite_start]🎓 **Academic Excellence**: Maintaining an **83.35%** in B.Tech (AI & ML)[cite: 9].
+- [cite_start]🚀 **Mission**: To bridge the gap between complex research models and real-world production environments[cite: 5, 6].
 
 ---
 
@@ -27,49 +27,49 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
 
 | Category | Specialized Technologies |
 | :--- | :--- |
-| **AI / ML** | PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, LLMs (T5, BERT), NLP |
-| **MLOps / DevOps** | Docker, Kubernetes, MLflow, DVC, GitHub Actions, Prometheus, Grafana |
-| **Languages** | Python, C, C++ |
-| **Databases** | MongoDB, MySQL |
+| **AI / ML** | [cite_start]PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, LLMs (T5, BERT), NLP [cite: 19] |
+| **MLOps / DevOps** | [cite_start]Docker, Kubernetes, MLflow, DVC, GitHub Actions, Prometheus, Grafana [cite: 19] |
+| **Languages** | [cite_start]Python, C, C++ [cite: 19] |
+| **Databases** | [cite_start]MongoDB, MySQL [cite: 20] |
 
 ---
 
 ## 🧪 Professional Experience
 
 ### 🔬 AI/ML Research Intern
-**University College Cork, Ireland** | *June 2025 – Sept 2025*
+**University College Cork, Ireland** | [cite_start]*June 2025 – Sept 2025* [cite: 12, 13]
 
-- Developed two medical imaging models: a **binary tumor classifier** and a **U-Net segmentation network**.
-- Achieved **96% accuracy** with *EfficientNetV2-S* and **0.706 IoU** with *U-Net*.
-- Implemented **secure key-based watermarking** for model authenticity and security.
-- Engineered **Grad-CAM visualizations** and advanced data augmentation pipelines.
+- [cite_start]Developed two medical imaging models: a **binary tumor classifier** and a **U-Net segmentation network**[cite: 14].
+- [cite_start]Achieved **96% accuracy** with *EfficientNetV2-S* and **0.706 IoU** with *U-Net*[cite: 15].
+- [cite_start]Implemented **secure key-based watermarking** for model authenticity and security[cite: 16].
+- [cite_start]Engineered **Grad-CAM visualizations** and advanced data augmentation pipelines[cite: 17].
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 [Automated Meeting Summarizer (LLMs)](https://github.com/CGhosh81/Chat-Summarizer)
-- Fine-tuned **T5 model** on the SAMSum dataset for high-fidelity dialogue summarization.
-- Built an end-to-end **seq2seq pipeline** generating concise, low-hallucination summaries.
-- Performance evaluated using **ROUGE metrics**.
+- [cite_start]Fine-tuned **T5 model** on the SAMSum dataset for high-fidelity dialogue summarization[cite: 23].
+- [cite_start]Built an end-to-end **seq2seq pipeline** generating concise, low-hallucination summaries[cite: 24].
+- [cite_start]Performance evaluated using **ROUGE metrics**[cite: 24].
 
 ### 📊 [Real-Time Customer Sentiment Analytics Engine](https://github.com/CGhosh81/Flipkart-Product-Review-analyzer)
-- Scraped and ingested **20,000+ Flipkart reviews** for real-time intelligence.
-- Leveraged a fine-tuned **BERT model** for advanced sentiment classification.
-- Optimized the entire pipeline for scalability and consistent inference.
+- [cite_start]Scraped and ingested **20,000+ Flipkart reviews** for real-time intelligence[cite: 26].
+- [cite_start]Leveraged a fine-tuned **BERT model** for advanced sentiment classification[cite: 26].
+- [cite_start]Optimized the entire pipeline for scalability and consistent inference[cite: 27].
 
 ### ⚙️ [MLOps-Based Car Insurance Risk Platform](https://github.com/CGhosh81/MLOPS-car-insurance)
-- Developed a modular ML workflow using **DVC** for data/model tracking.
-- Implemented **Docker** for containerization and **GitHub Actions** for CI/CD.
-- Ensured 100% reproducible training and automated deployment.
+- [cite_start]Developed a modular ML workflow using **DVC** for data/model tracking[cite: 29].
+- [cite_start]Implemented **Docker** for containerization and **GitHub Actions** for CI/CD[cite: 29].
+- [cite_start]Ensured 100% reproducible training and automated deployment[cite: 30].
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science (AI & ML)** | Adamas University | **83.35%** (2022-2026)
-- **Higher Secondary (12th)** | Monteswar Sagarbala High School | **78.8%**
-- **Secondary (10th)** | Dhamachiya Vidhyasagar Vidyamandir | **84.6%**
+- **B.Tech in Computer Science (AI & ML)** | Adamas University | [cite_start]**83.35%** (2022-2026) [cite: 9]
+- **Higher Secondary (12th)** | Monteswar Sagarbala High School | [cite_start]**78.8%** [cite: 9]
+- **Secondary (10th)** | Dhamachiya Vidhyasagar Vidyamandir | [cite_start]**84.6%** [cite: 9]
 
 ---
 
@@ -88,10 +88,10 @@ I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **
 
 ## 🌍 Connect & Communicate
 
-- **Languages**: English, Hindi, Bengali
-- **Portfolio**: [www.chayanghosh.com](http://www.chayanghosh.com)
-- **LinkedIn**: [linkedin.com/in/chayan-ghosh07](https://linkedin.com/in/chayan-ghosh07)
-- **GitHub**: [github.com/CGhosh81](https://github.com/CGhosh81)
+- [cite_start]**Languages**: English, Hindi, Bengali [cite: 32]
+- [cite_start]**Portfolio**: [www.chayanghosh.com](http://www.chayanghosh.com) [cite: 2]
+- [cite_start]**LinkedIn**: [linkedin.com/in/chayan-ghosh07](https://linkedin.com/in/chayan-ghosh07) [cite: 3]
+- [cite_start]**GitHub**: [github.com/CGhosh81](https://github.com/CGhosh81) [cite: 3]
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
