@@ -11,11 +11,27 @@
 
 ## 👨‍💻 Professional Profile
 
-I am a **Final-year B.Tech student specializing in AI & Machine Learning** at **Adamas University**. My expertise lies in building end-to-end ML pipelines, training deep learning models, and deploying scalable, production-ready systems. I focus on practical problem-solving, model optimization, and reliable ML engineering.
+I am a **Final-year B.Tech student specializing in Artificial Intelligence & Machine Learning** at **Adamas University**. I am passionate about developing machine learning and deep learning solutions and applying AI techniques to solve real-world problems.
 
-- 🔬 **International Research**: Completed an AI/ML Research Internship at **University College Cork, Ireland**.
-- 🎓 **Academic Excellence**: Currently maintaining an **83.35%** in B.Tech (AI & ML).
-- 🚀 **Mission**: To bridge the gap between complex research models and real-world production environments.
+My work focuses on building and experimenting with **machine learning pipelines, deep learning models, and data-driven solutions** through academic projects and research. I am particularly interested in **model optimization, applied AI, and ML engineering practices**.
+
+---
+
+### 🔬 Research & Academics
+
+- 🔬 **International Research:** Completed an AI/ML Research Internship at **University College Cork, Ireland**
+- 🎓 **Academic Performance:** Currently maintaining **83.35%** in B.Tech (AI & ML)
+- 🚀 **Goal:** To bridge the gap between **AI research and practical real-world applications**
+
+---
+
+### 💡 Interests
+
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Applied AI Research  
+- ML Engineering  
 
 ---
 
