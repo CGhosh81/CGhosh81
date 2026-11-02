@@ -1,90 +1,206 @@
-<!-- GitHub Profile README — CGhosh81 --><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Chayan%20Ghosh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=AI%20%26%20ML%20Graduate%20%7C%20Graduate%20Engineer%20Trainee%20%E2%80%94%20IT&descAlignY=59&descSize=17" width="100%" alt="Chayan Ghosh — AI and ML Graduate, Graduate Engineer Trainee in IT" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Business+Solutions;Machine+Learning+%7C+LLMs+%7C+Data+Analytics;Python+%7C+FastAPI+%7C+Power+BI+%7C+AWS;From+Research+Prototypes+to+Real-World+Systems" alt="Animated introduction" />  <p>
-    <a href="https://www.chayanghosh.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/chayan-ghosh07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:chayan07ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/CGhosh81"><img src="https://komarev.com/ghpvc/?username=CGhosh81&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  </p></div>👋 About Me
-I'm Chayan Ghosh, a B.Tech graduate in Computer Science (Artificial Intelligence & Machine Learning) from Adamas University and currently a Graduate Engineer Trainee (GET) in the IT Department at Skipper Limited.
 
-My interests sit at the intersection of machine learning, enterprise AI, software engineering, and data analytics. After working on AI research and academic ML projects, I'm now gaining hands-on experience with how data, applications, and AI systems come together to solve business problems.
-- 💼 Currently: Graduate Engineer Trainee — IT, Skipper Limited (since July 2026)
-- 🔬 Previously: AI/ML Research Intern — University College Cork, Ireland
-- 🧠 Areas of interest: Applied AI, LLMs, NLP, Computer Vision, MLOps, and data engineering
-- 🛠️ Building with: Python, FastAPI, SQL, Power BI, and AWS
-- 🎯 Long-term goal: Engineer reliable, maintainable AI-powered applications that deliver measurable value
-- 📍 Based in: Kolkata, India
-💼 Professional Experience
-Graduate Engineer Trainee (GET) — IT | Skipper Limited
-July 2026 – Present
+# Chayan Ghosh
 
-Working on enterprise technology initiatives spanning AI analytics, business intelligence, process automation, and application development, including:
-- AI-powered voice analytics: Supporting the development and testing of workflows that turn customer conversations into sentiment insights, product feedback, and operational reporting.
-- Business intelligence: Building and improving Power BI sales dashboards with interactive comparisons, DAX measures, and data-refresh workflows.
-- Internal applications: Contributing to workflow digitization initiatives, including visitor management and employee onboarding systems.
-- Data integration: Exploring structured pipelines for moving enterprise data from source systems into centralized, reporting-ready datasets.
-- Cross-functional delivery: Coordinating requirements, testing, documentation, and implementation with business users and technical teams.
-Note: Internal enterprise work is summarized at a high level; source code, business data, and implementation details are not public.
+### AI & Machine Learning | Software Engineering | Enterprise AI
 
-AI/ML Research Intern | University College Cork, Ireland
-June 2025 – September 2025
-- Developed two medical imaging models: a binary tumor classifier and a U-Net segmentation network.
-- Achieved 96% classification accuracy with EfficientNetV2-S and 0.706 IoU with U-Net.
-- Implemented secure, key-based watermarking to explore model authenticity and security.
-- Created Grad-CAM visualizations and advanced data augmentation pipelines for model analysis.
-🧰 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,fastapi,flask,docker,aws,mysql,postgres,mongodb,git,github,githubactions&perline=8" alt="Technology icons" />
-</div>Focus	Tools & Technologies
-AI / Machine Learning	PyTorch, TensorFlow, Keras, scikit-learn, CNNs, U-Net, Transformers, BERT, T5
-LLMs & NLP	Hugging Face Transformers, NLP pipelines, sentiment analysis, RAG concepts, AWS Bedrock
-Backend & Development	Python, FastAPI, Flask, C, C++, REST APIs, Git
-Data & BI	Pandas, NumPy, SQL, Power BI, DAX, data visualization
-Databases	PostgreSQL, MySQL, MongoDB, SQLite
-MLOps & Cloud	Docker, AWS, GitHub Actions, DVC, MLflow, Kubernetes
+**Graduate Engineer Trainee — IT @ Skipper Limited**  
+**B.Tech in Computer Science (Artificial Intelligence & Machine Learning)**
 
+Building intelligent systems, exploring applied AI, and turning technical ideas into practical solutions.
 
-🚀 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">🤖 Automated Meeting Summarizer
-LLMs · T5 · NLP · Transformers
+[Portfolio](https://www.chayanghosh.com) · [LinkedIn](https://www.linkedin.com/in/chayan-ghosh07/) · [Email](mailto:chayan07ghosh@gmail.com)
 
-Fine-tuned T5 on the SAMSum dataset for dialogue summarization. Built a sequence-to-sequence workflow and evaluated output quality using ROUGE metrics.
-</td>
-<td width="50%" valign="top">📊 Customer Sentiment Analytics
-BERT · Sentiment Analysis · Data Processing
+---
 
-Collected and processed 20,000+ product reviews, applied a fine-tuned BERT model for sentiment classification, and explored scalable inference workflows.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">⚙️ Car Insurance Risk — MLOps
-Machine Learning · DVC · Docker · CI/CD
+## About Me
 
-Created a modular ML workflow with DVC for version tracking, Docker for containerization, and GitHub Actions for automation.
-</td>
-<td width="50%" valign="top">🧩 What I'm Building Now
-Python · APIs · Databases · Enterprise AI
+I'm **Chayan Ghosh**, an Artificial Intelligence and Machine Learning graduate from **Adamas University**, currently working as a **Graduate Engineer Trainee (IT) at Skipper Limited**.
 
-Expanding my practical engineering skills through backend development, data workflows, and full-stack learning, while applying AI and analytics to enterprise use cases.
-</td>
-</tr>
-</table>🎓 Education & Research
-- 🎓 B.Tech — Computer Science (AI & ML), Adamas University (2022–2026) · 83.35%
-- 🌍 International AI/ML Research Internship, University College Cork, Ireland (2025)
-- 📚 Higher Secondary, Monteswar Sagarbala High School · 78.8%
-- 📘 Secondary, Dhamachiya Vidhyasagar Vidyamandir · 84.6%
-📈 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com?user=CGhosh81&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" height="165" />
-</div>🌐 Let's Connect
-I'm always interested in AI/ML engineering, backend systems, practical ML research, and data-driven applications. Feel free to explore my repositories or reach out through LinkedIn or email.
+My journey began with machine learning research, deep learning models, and academic projects. Today, I'm expanding that foundation by working on enterprise AI solutions, software applications, data analytics, and automation.
 
-Languages: English · Hindi · Bengali
-<div align="center">
-  <h3>Learn continuously. Build thoughtfully. Keep improving. 🚀</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Footer wave" />
-</div>
+I enjoy understanding how systems work end to end — from data collection and processing to backend engineering, model integration, and real-world deployment.
+
+My long-term focus is to become an engineer who can build **reliable, scalable, and production-ready AI-powered applications**.
+
+**A little more about me:**
+
+- Currently working on enterprise AI, analytics, and application development.
+- Previously conducted AI/ML research at University College Cork, Ireland.
+- Interested in AI Engineering, MLOps, Backend Development, and Applied Machine Learning.
+- Continuously improving my understanding of software architecture, system design, and production engineering.
+- Based in Kolkata, India.
+
+---
+
+## Professional Experience
+
+### Graduate Engineer Trainee — Information Technology
+**Skipper Limited | July 2026 – Present**
+
+Working on practical technology initiatives involving AI integration, software development, business intelligence, and process automation.
+
+**Key areas of work:**
+
+**AI & Voice Analytics**
+- Contributing to an AI-powered voice analytics platform for customer interaction analysis.
+- Working with LLM-based processing, sentiment analysis, and business insight generation.
+- Exploring AWS-based AI services and automated data-processing workflows.
+
+**Business Intelligence & Data Analytics**
+- Developing interactive Power BI dashboards for sales reporting and performance analysis.
+- Working with data transformation, dynamic reporting, and automated refresh workflows.
+- Exploring centralized data repositories and structured data integration.
+
+**Backend Development & Enterprise Applications**
+- Working with Python, FastAPI, databases, and API-driven application architectures.
+- Contributing to internal applications for workflow digitization and operational efficiency.
+- Exploring authentication, access control, data validation, and secure application design.
+
+**Automation & Cloud Integration**
+- Working on automated data movement and cloud-storage integration.
+- Building and improving file-processing workflows and system reliability.
+- Gaining hands-on exposure to deployment, testing, troubleshooting, and technical documentation.
+
+**Core focus:** Applying software engineering and AI concepts to real business requirements.
+
+### AI/ML Research Intern
+**University College Cork, Ireland | June 2025 – September 2025**
+
+Worked on deep learning techniques for medical image classification, segmentation, and model security.
+
+**Research highlights:**
+
+- Developed a binary tumor classification model using **EfficientNetV2-S**, achieving **96% accuracy**.
+- Implemented a **U-Net segmentation architecture**, achieving an IoU score of **0.706**.
+- Applied Grad-CAM for model interpretability and visual analysis.
+- Developed secure key-based watermarking techniques for model authenticity.
+- Worked with image preprocessing, data augmentation, model training, and evaluation.
+
+**Research interests:** Medical Imaging, Computer Vision, Deep Learning, Explainable AI, and Model Security.
+
+---
+
+## Technical Skills
+
+| Area | Technologies & Concepts |
+| --- | --- |
+| **Programming** | Python, C, C++, SQL |
+| **AI & Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras |
+| **Deep Learning & NLP** | CNNs, RNNs, Transformers, BERT, T5, LLMs |
+| **Generative AI** | AWS Bedrock, RAG, LLM Integration, Embeddings |
+| **Backend Engineering** | FastAPI, Flask, REST APIs |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite |
+| **Data & Analytics** | Pandas, NumPy, Power BI, Data Processing |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions, Kubernetes |
+| **MLOps & Monitoring** | MLflow, DVC, Prometheus, Grafana |
+| **Developer Tools** | Git, GitHub, Linux, VS Code |
+
+---
+
+## Featured Projects
+
+Here are some projects that reflect my interests in machine learning, NLP, MLOps, and software engineering.
+
+### 01. Automated Meeting Summarizer
+**Natural Language Processing | T5 | Transformers**
+
+Built an NLP-based application for automated conversation summarization.
+
+- Fine-tuned a T5 model using the SAMSum dataset.
+- Developed a sequence-to-sequence text summarization pipeline.
+- Evaluated generated summaries using ROUGE metrics.
+- Explored abstractive summarization for conversational data.
+
+**Repository:** [Automated Meeting Summarizer](https://github.com/CGhosh81/Chat-Summarizer)
+
+### 02. Customer Review Sentiment Analytics
+**BERT | NLP | Sentiment Analysis**
+
+Developed a sentiment analytics solution to extract insights from customer product reviews.
+
+- Collected and processed more than 20,000 Flipkart product reviews.
+- Applied a fine-tuned BERT model for sentiment classification.
+- Built a workflow for data preprocessing, model inference, and result analysis.
+- Explored how NLP can support data-driven business decisions.
+
+**Repository:** [Customer Sentiment Analytics](https://github.com/CGhosh81/Flipkart-Product-Review-analyzer)
+
+### 03. MLOps-Based Car Insurance Risk Platform
+**Machine Learning | Docker | DVC | CI/CD**
+
+Built a modular machine learning workflow with an emphasis on reproducibility and automation.
+
+- Used DVC for dataset and model version tracking.
+- Containerized the application using Docker.
+- Implemented GitHub Actions for CI/CD automation.
+- Structured the project around modular ML pipeline components.
+
+**Repository:** [MLOps Car Insurance Platform](https://github.com/CGhosh81/MLOPS-car-insurance)
+
+---
+
+## What I'm Currently Exploring
+
+Alongside my professional responsibilities, I'm strengthening my knowledge of modern software and AI engineering.
+
+| Focus Area | Learning Direction |
+| --- | --- |
+| **Backend Engineering** | Python, FastAPI, REST APIs, Authentication |
+| **System Design** | Scalable Architecture, Database Design, Reliability |
+| **AI Engineering** | LLM Applications, RAG, Model Integration |
+| **MLOps** | Model Deployment, Monitoring, Automation |
+| **Cloud Engineering** | AWS Services, Storage, Infrastructure |
+| **Problem Solving** | Data Structures, Algorithms, Clean Code |
+
+I believe strong AI engineers need more than model-building skills. They also need to understand software systems, data architecture, testing, security, and deployment.
+
+---
+
+## Education & Research
+
+**Bachelor of Technology — Computer Science (AI & ML)**  
+Adamas University | 2022 – 2026  
+Academic Score: **83.35%**
+
+**International Research Experience**  
+University College Cork, Ireland | 2025  
+Area: Deep Learning, Medical Image Analysis, and AI Model Security
+
+**Higher Secondary Education**  
+Monteswar Sagarbala High School | 78.8%
+
+**Secondary Education**  
+Dhamachiya Vidhyasagar Vidyamandir | 84.6%
+
+---
+
+## Professional Interests
+
+My primary areas of interest are:
+
+- Applied Artificial Intelligence and Machine Learning
+- LLM Applications and Generative AI
+- Backend and Software Engineering
+- MLOps and AI Infrastructure
+- Data Engineering and Analytics
+- Cloud-Based Application Development
+- Scalable and Reliable System Design
+
+I am especially interested in understanding how AI solutions move from experimental notebooks to reliable applications used by real people.
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, discussing technical ideas, and connecting with people working in AI, data, and software engineering.
+
+**Portfolio:** [chayanghosh.com](https://www.chayanghosh.com)  
+**LinkedIn:** [Chayan Ghosh](https://www.linkedin.com/in/chayan-ghosh07/)  
+**GitHub:** [CGhosh81](https://github.com/CGhosh81)  
+**Email:** [chayan07ghosh@gmail.com](mailto:chayan07ghosh@gmail.com)
+
+**Languages:** English · Hindi · Bengali
+
+---
+
+### Learning continuously. Engineering thoughtfully. Building for real-world impact.
