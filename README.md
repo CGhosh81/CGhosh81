@@ -1,126 +1,90 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hi there, I'm Chayan Ghosh 👋
-</h1>
+<!-- GitHub Profile README — CGhosh81 --><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Chayan%20Ghosh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=AI%20%26%20ML%20Graduate%20%7C%20Graduate%20Engineer%20Trainee%20%E2%80%94%20IT&descAlignY=59&descSize=17" width="100%" alt="Chayan Ghosh — AI and ML Graduate, Graduate Engineer Trainee in IT" />  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Business+Solutions;Machine+Learning+%7C+LLMs+%7C+Data+Analytics;Python+%7C+FastAPI+%7C+Power+BI+%7C+AWS;From+Research+Prototypes+to+Real-World+Systems" alt="Animated introduction" />  <p>
+    <a href="https://www.chayanghosh.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/chayan-ghosh07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:chayan07ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/CGhosh81"><img src="https://komarev.com/ghpvc/?username=CGhosh81&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  </p></div>👋 About Me
+I'm Chayan Ghosh, a B.Tech graduate in Computer Science (Artificial Intelligence & Machine Learning) from Adamas University and currently a Graduate Engineer Trainee (GET) in the IT Department at Skipper Limited.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=AI+%26+ML+Engineer+in+the+Making;MLOps+%7C+Deep+Learning+%7C+LLMs;Computer+Vision+%26+NLP+Practitioner;Building+Production-Ready+ML+Systems" alt="Typing Animation">
-</p>
+My interests sit at the intersection of machine learning, enterprise AI, software engineering, and data analytics. After working on AI research and academic ML projects, I'm now gaining hands-on experience with how data, applications, and AI systems come together to solve business problems.
+- 💼 Currently: Graduate Engineer Trainee — IT, Skipper Limited (since July 2026)
+- 🔬 Previously: AI/ML Research Intern — University College Cork, Ireland
+- 🧠 Areas of interest: Applied AI, LLMs, NLP, Computer Vision, MLOps, and data engineering
+- 🛠️ Building with: Python, FastAPI, SQL, Power BI, and AWS
+- 🎯 Long-term goal: Engineer reliable, maintainable AI-powered applications that deliver measurable value
+- 📍 Based in: Kolkata, India
+💼 Professional Experience
+Graduate Engineer Trainee (GET) — IT | Skipper Limited
+July 2026 – Present
 
----
+Working on enterprise technology initiatives spanning AI analytics, business intelligence, process automation, and application development, including:
+- AI-powered voice analytics: Supporting the development and testing of workflows that turn customer conversations into sentiment insights, product feedback, and operational reporting.
+- Business intelligence: Building and improving Power BI sales dashboards with interactive comparisons, DAX measures, and data-refresh workflows.
+- Internal applications: Contributing to workflow digitization initiatives, including visitor management and employee onboarding systems.
+- Data integration: Exploring structured pipelines for moving enterprise data from source systems into centralized, reporting-ready datasets.
+- Cross-functional delivery: Coordinating requirements, testing, documentation, and implementation with business users and technical teams.
+Note: Internal enterprise work is summarized at a high level; source code, business data, and implementation details are not public.
 
-## 👨‍💻 Professional Profile
-
-I am a **Final-year B.Tech student specializing in Artificial Intelligence & Machine Learning** at **Adamas University**. I am passionate about developing machine learning and deep learning solutions and applying AI techniques to solve real-world problems.
-
-My work focuses on building and experimenting with **machine learning pipelines, deep learning models, and data-driven solutions** through academic projects and research. I am particularly interested in **model optimization, applied AI, and ML engineering practices**.
-
----
-
-### 🔬 Research & Academics
-
-- 🔬 **International Research:** Completed an AI/ML Research Internship at **University College Cork, Ireland**
-- 🎓 **Academic Performance:** Currently maintaining **83.35%** in B.Tech (AI & ML)
-- 🚀 **Goal:** To bridge the gap between **AI research and practical real-world applications**
-
----
-
-### 💡 Interests
-
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Applied AI Research  
-- ML Engineering  
-
----
-
-## 🛠️ Skills & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,docker,kubernetes,pytorch,tensorflow,mongodb,mysql,git,github,flask,prometheus,grafana&perline=7" />
-</p>
-
-| Category | Specialized Technologies |
-| :--- | :--- |
-| **AI / ML** | PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, LLMs (T5, BERT), NLP |
-| **MLOps / DevOps** | Docker, Kubernetes, MLflow, DVC, GitHub Actions, Prometheus, Grafana |
-| **Languages** | Python, C, C++ |
-| **Databases** | MongoDB, MySQL |
-
----
-
-## 🧪 Professional Experience
-
-### 🔬 AI/ML Research Intern
-**University College Cork, Ireland** | *June 2025 – Sept 2025*
-
-- Developed two medical imaging models: a **binary tumor classifier** and a **U-Net segmentation network**.
-- Achieved **96% accuracy** with *EfficientNetV2-S* and **0.706 IoU** with *U-Net*.
-- Implemented **secure key-based watermarking** for model authenticity and security.
-- Engineered **Grad-CAM visualizations** and advanced data augmentation pipelines.
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Automated Meeting Summarizer (LLMs)](https://github.com/CGhosh81/Chat-Summarizer)
-- Fine-tuned **T5 model** on the SAMSum dataset for high-fidelity dialogue summarization.
-- Built an end-to-end **seq2seq pipeline** generating concise, low-hallucination summaries.
-- Performance evaluated using **ROUGE metrics**.
-
-### 📊 [Real-Time Customer Sentiment Analytics Engine](https://github.com/CGhosh81/Flipkart-Product-Review-analyzer)
-- Scraped and ingested **20,000+ Flipkart reviews** for real-time intelligence.
-- Leveraged a fine-tuned **BERT model** for advanced sentiment classification.
-- Optimized the entire pipeline for scalability and consistent inference.
-
-### ⚙️ [MLOps-Based Car Insurance Risk Platform](https://github.com/CGhosh81/MLOPS-car-insurance)
-- Developed a modular ML workflow using **DVC** for data/model tracking.
-- Implemented **Docker** for containerization and **GitHub Actions** for CI/CD.
-- Ensured 100% reproducible training and automated deployment.
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science (AI & ML)** | Adamas University | **83.35%** (2022-2026)
-- **Higher Secondary (12th)** | Monteswar Sagarbala High School | **78.8%**
-- **Secondary (10th)** | Dhamachiya Vidhyasagar Vidyamandir | **84.6%**
-
----
-
-## 📊 Analytics & Impact
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGhosh81&theme=tokyonight&hide_border=true" height="165" /> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p>
-
----
-
-## 🌍 Connect & Communicate
-
-<p align="center">
-  <a href="https://www.chayanghosh.com">
-    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/chayan-ghosh07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:chayan07ghosh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Languages:</b> English • Hindi • Bengali 
-</p>
+AI/ML Research Intern | University College Cork, Ireland
+June 2025 – September 2025
+- Developed two medical imaging models: a binary tumor classifier and a U-Net segmentation network.
+- Achieved 96% classification accuracy with EfficientNetV2-S and 0.706 IoU with U-Net.
+- Implemented secure, key-based watermarking to explore model authenticity and security.
+- Created Grad-CAM visualizations and advanced data augmentation pipelines for model analysis.
+🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,fastapi,flask,docker,aws,mysql,postgres,mongodb,git,github,githubactions&perline=8" alt="Technology icons" />
+</div>Focus	Tools & Technologies
+AI / Machine Learning	PyTorch, TensorFlow, Keras, scikit-learn, CNNs, U-Net, Transformers, BERT, T5
+LLMs & NLP	Hugging Face Transformers, NLP pipelines, sentiment analysis, RAG concepts, AWS Bedrock
+Backend & Development	Python, FastAPI, Flask, C, C++, REST APIs, Git
+Data & BI	Pandas, NumPy, SQL, Power BI, DAX, data visualization
+Databases	PostgreSQL, MySQL, MongoDB, SQLite
+MLOps & Cloud	Docker, AWS, GitHub Actions, DVC, MLflow, Kubernetes
 
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">🤖 Automated Meeting Summarizer
+LLMs · T5 · NLP · Transformers
 
-<p align="center">
-  🌟 <i>Always learning. Always building.</i> 🌟
-</p>
+Fine-tuned T5 on the SAMSum dataset for dialogue summarization. Built a sequence-to-sequence workflow and evaluated output quality using ROUGE metrics.
+</td>
+<td width="50%" valign="top">📊 Customer Sentiment Analytics
+BERT · Sentiment Analysis · Data Processing
+
+Collected and processed 20,000+ product reviews, applied a fine-tuned BERT model for sentiment classification, and explored scalable inference workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">⚙️ Car Insurance Risk — MLOps
+Machine Learning · DVC · Docker · CI/CD
+
+Created a modular ML workflow with DVC for version tracking, Docker for containerization, and GitHub Actions for automation.
+</td>
+<td width="50%" valign="top">🧩 What I'm Building Now
+Python · APIs · Databases · Enterprise AI
+
+Expanding my practical engineering skills through backend development, data workflows, and full-stack learning, while applying AI and analytics to enterprise use cases.
+</td>
+</tr>
+</table>🎓 Education & Research
+- 🎓 B.Tech — Computer Science (AI & ML), Adamas University (2022–2026) · 83.35%
+- 🌍 International AI/ML Research Internship, University College Cork, Ireland (2025)
+- 📚 Higher Secondary, Monteswar Sagarbala High School · 78.8%
+- 📘 Secondary, Dhamachiya Vidhyasagar Vidyamandir · 84.6%
+📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CGhosh81&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://streak-stats.demolab.com?user=CGhosh81&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGhosh81&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages on GitHub" height="165" />
+</div>🌐 Let's Connect
+I'm always interested in AI/ML engineering, backend systems, practical ML research, and data-driven applications. Feel free to explore my repositories or reach out through LinkedIn or email.
+
+Languages: English · Hindi · Bengali
+<div align="center">
+  <h3>Learn continuously. Build thoughtfully. Keep improving. 🚀</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Footer wave" />
+</div>
